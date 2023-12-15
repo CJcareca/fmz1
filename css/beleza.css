@@ -1,0 +1,70 @@
+body {
+	background-image: url(../img/fundo.jpg); 
+}
+#porunga{
+	background-color: #2CC903 ;
+	width: 100%;
+	height: 15vh;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.quadrado{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.shurreia {
+	width: 450px;
+	height:auto;
+	margin-top: 20px;
+}
+#costa {
+	background-color: white ;
+}
+#codigin{
+	background-color: white ;
+	font-size: 20px ;
+	margin-top: 120px ;
+}
+#redodinho {
+	text-align: center;
+	background-color: grey ;
+	width: 100%;
+	height: 2vh;
+}
+#pedra {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.borboleta{
+	width: 20%;
+	height: 12vh;
+	background-color: white;
+		display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	flex-wrap:  nowrap;
+
+}
+#materia {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
